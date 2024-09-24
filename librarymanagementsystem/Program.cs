@@ -5,7 +5,10 @@ using System.ComponentModel.Design;
 using System.Data.SqlTypes;
 using System.Numerics;
 
+/*Library Management System
+Features Include:
 
+*/
 public class HelloWorld
 {
    public static string connection = "Data Source=KING\\SQLEXPRESS;Initial Catalog=consoleapplibrary;Integrated Security=True;Trust Server Certificate=True";
